@@ -1,6 +1,6 @@
 # Hi there, I'm mrcodex13 👋
 
-**Full Stack Dev · Data Engineer · ML Engineer**
+**Full Stack Dev · Data Engineer · MLOps Engineer**
 
 ---
 
@@ -14,4 +14,4 @@
 ---
 
 **Stack:**
-`Python` `JavaScript` `React` `Node.js` `SQL` `TensorFlow` `PyTorch`
+`Python` `TensorFlow` `PyTorch` `MLflow` `Docker` `Kubernetes` `AWS`
