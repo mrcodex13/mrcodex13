@@ -12,6 +12,11 @@
 - ⚡ **Fun fact** — I debug with coffee and ship with confidence
 
 ---
+## Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrcodex13&layout=compact&theme=default&hide_border=false" />
+</p>
 
 **Stack:**
 `Python` `TensorFlow` `PyTorch` `MLflow` `Docker` `Kubernetes` `AWS`
